@@ -3071,7 +3071,7 @@ animation-duration: 2.5s;
 
 /*-- ===============//breatcome area start here \\================= */
 .breatcome-area {
-    background: url(assets/images/resource/about-bg-3.jpg);
+    background: url(../../assets/images/resource/about-bg-3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -3145,7 +3145,7 @@ animation-duration: 2.5s;
 }
 /*-- ===============//brand area start here \\================= */
 .brand-area {
-    background: url(assets/images/resource/brand-bg.png);
+    background: url(../../assets/images/resource/brand-bg.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -3192,7 +3192,7 @@ p.skill-text {
 }
 /*-- ===============//counter area start here \\================= */
 .counter-area {
-    background: url(assets/images/resource/counter-bg.png);
+    background: url(../../assets/images/resource/counter-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
