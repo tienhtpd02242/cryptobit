@@ -241,12 +241,7 @@
     barfiller js 
     --------------------- */
     $(document).ready(function(){
-    $('#bar1').barfiller({ duration: 7000 });
-    $('#bar2').barfiller({ duration: 7000 });
-    $('#bar3').barfiller({ duration: 7000 });
-    $('#bar4').barfiller({ duration: 7000 });
-    $('#bar5').barfiller({ duration: 7000 });
-    $('#bar6').barfiller({ duration: 7000 });
+        
     });
 
      /*// counterUp
@@ -309,25 +304,4 @@
     $("ul.tabs li").removeClass("active");
     $("ul.tabs li[rel^='"+d_activeTab+"']").addClass("active");
     });
-
-	
-	 // Venubox
-
-    $('.venobox').venobox({
-
-        numeratio: true,
-
-        infinigall: true
-
-    });
-    
-	/*--------------------------
-     scrollUp
-    ---------------------------- */
-    $.scrollUp({
-        scrollText: '<i class="fa fa-angle-up"></i>',
-        easingType: 'linear',
-        scrollSpeed: 900,
-        animation: 'fade'
-    })
 })(jQuery);
